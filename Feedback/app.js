@@ -25,6 +25,6 @@ btn.addEventListener('click', () => {
     <strong> Geri bildiriminiz bizim için çok değerli. </strong>
     <br>
     <strong> Geri Bildiriminiz: ${selectedRating} </strong>
-    <p> Geri bildiriminizi kendimizi geliştirmek için kullanacağız. </p> 
+    <p> Düşüncelerinizi bizimle paylaştığınız için teşekkür ederiz. </p> 
   `
 })
