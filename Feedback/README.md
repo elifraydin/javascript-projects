@@ -1,4 +1,4 @@
-#Feed
+# Feedback
 
 ![feedback](https://user-images.githubusercontent.com/82974297/188016944-fe206ecb-d325-4a30-b797-af372b64a7d8.jpg)
 
